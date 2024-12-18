@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elevate Your Vibrations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #6a5acd;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #6a5acd;
+        }
+        .module {
+            margin-bottom: 20px;
+        }
+        .module h3 {
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: #fff;
+            margin-top: 20px;
+        }
+        .bonus {
+            background: #f9f0d9;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Elevate Your Vibrations for Wealth and Abundance</h1>
+    <p>Transform your energy, mindset, and lifestyle.</p>
+</header>
+
+<div class="container">
+
+    <!-- Module 1 -->
+    <section class="module">
+        <h2>Module 1: Understanding Vibrations and Energy</h2>
+        <h3>What Are Vibrations?</h3>
+        <p>Learn about the science of vibrational energy and how it influences your mindset and environment.</p>
+        <h3>The Energy Around You</h3>
+        <p>Discover how to identify positive and negative energy in your surroundings.</p>
+        <h3>Raising Your Awareness</h3>
+        <p>Master techniques to tune in to your inner energy and become more mindful.</p>
+    </section>
+
+    <!-- Module 2 -->
+    <section class="module">
+        <h2>Module 2: Cultivating a High-Vibration Mindset</h2>
+        <h3>The Power of Positive Thinking</h3>
+        <p>Rewire your brain for optimism and gratitude.</p>
+        <h3>Eliminating Limiting Beliefs</h3>
+        <p>Overcome mindset blocks and embrace abundance thinking.</p>
+        <h3>Affirmations and Visualization</h3>
+        <p>Use affirmations and visualization to align with success.</p>
+    </section>
+
+    <!-- Module 3 -->
+    <section class="module">
+        <h2>Module 3: Energy Mastery for Everyday Life</h2>
+        <h3>Daily Energy Practices</h3>
+        <p>Set the tone for your day with high-vibration routines and rituals.</p>
+        <h3>Meditation and Breathwork</h3>
+        <p>Practice guided meditation and breathwork to balance and energize.</p>
+        <h3>Energy Protection Techniques</h3>
+        <p>Learn how to shield yourself from negativity and maintain resilience.</p>
+    </section>
+
+    <!-- Module 4 -->
+    <section class="module">
+        <h2>Module 4: Vibrations and Wealth Creation</h2>
+        <h3>Aligning Energy with Financial Goals</h3>
+        <p>Match your energy to the frequency of abundance.</p>
+        <h3>Taking Inspired Action</h3>
+        <p>Identify opportunities and act in alignment with your goals.</p>
+        <h3>Overcoming Fear of Success</h3>
+        <p>Embrace growth and release fears that block wealth.</p>
+    </section>
+
+    <!-- Module 5 -->
+    <section class="module">
+        <h2>Module 5: Building a Wealthy Lifestyle Through Energy Alignment</h2>
+        <h3>Creating a Vision for Abundance</h3>
+        <p>Design a lifestyle that aligns with your high vibrations using tools like vision boards and journaling.</p>
+        <h3>The Role of Generosity and Gratitude</h3>
+        <p>Discover how giving and gratitude elevate your vibration and wealth.</p>
+        <h3>Living in Flow</h3>
+        <p>Balance effort and ease, trusting the process of abundance.</p>
+    </section>
+
+    <!-- Module 6 -->
+    <section class="module">
+        <h2>Module 6: Real-Life Application and Sustainability</h2>
+        <h3>Integrating High-Vibration Practices</h3>
+        <p>Make these practices a permanent part of your life and overcome consistency challenges.</p>
+        <h3>Measuring Progress</h3>
+        <p>Track mindset shifts, energy changes, and tangible results in wealth and lifestyle.</p>
+        <h3>Continuous Growth</h3>
+        <p>Commit to lifelong learning and self-improvement with recommended resources.</p>
+    </section>
+
+    <!-- Bonus Content -->
+    <section class="module bonus">
+        <h2>Bonus Content</h2>
+        <p>Access exclusive guided meditations, printable workbooks, and join our private community for support and accountability.</p>
+    </section>
+
+</div>
+
+<footer>
+    <p>&copy; 2024 Elevate Your Vibrations. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
